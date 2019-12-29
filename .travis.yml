@@ -1,5 +1,7 @@
 os: linux
 language: node_js
+mode_js:
+    - 12.4.0
 services:
     - docker
     
